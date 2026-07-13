@@ -306,5 +306,4 @@
 # for i in fruits:
 #     print(fruits[::-1],end=" ")
 
-
-
+ #practice=======================================
